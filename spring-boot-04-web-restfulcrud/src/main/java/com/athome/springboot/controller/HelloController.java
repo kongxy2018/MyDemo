@@ -21,7 +21,7 @@ public class HelloController {
     @RequestMapping("/success")
     public String success(Map<String, Object> map) {
         map.put("hello", "<h1>你好:kongxy</h1>");
-        map.put("users", Arrays.asList("zhangsan", "lisi", "wangwu"));
+        map.put("users", Arrays.asList("zhangsan", "lisi", "wangwu", "zhaoliu"));
         return "success";
     }
 }
