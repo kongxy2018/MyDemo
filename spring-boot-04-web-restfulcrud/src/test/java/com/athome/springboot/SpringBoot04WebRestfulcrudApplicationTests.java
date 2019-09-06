@@ -11,6 +11,7 @@ public class SpringBoot04WebRestfulcrudApplicationTests {
 
     @Test
     public void contextLoads() {
+        System.out.println(123);
     }
 
 }
