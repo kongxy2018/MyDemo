@@ -1,3 +1,4 @@
+/*
 package com.athome.springboot.service;
 
 import org.apache.kafka.clients.consumer.ConsumerRecord;
@@ -21,3 +22,4 @@ public class KafkaReceiver {
     }
   }
 }
+*/
